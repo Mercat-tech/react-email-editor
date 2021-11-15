@@ -1,7 +1,7 @@
 {
-  "name": "react-email-editor",
+  "name": "mercat-react-unlayer-editor",
   "version": "1.4.0",
-  "description": "Unlayer's Email Editor Component for React.js",
+  "description": "Unlayer's Web Editor Component for React.js",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -31,9 +31,9 @@
     "styled-components": "^4.2.0"
   },
   "author": "",
-  "homepage": "https://github.com/unlayer/react-email-editor#readme",
+  "homepage": "https://github.com/Mercat-tech/react-email-editor#readme",
   "license": "MIT",
-  "repository": "https://github.com/unlayer/react-email-editor.git",
+  "repository": "https://github.com/Mercat-tech/react-email-editor.git",
   "keywords": [
     "react-component"
   ]
